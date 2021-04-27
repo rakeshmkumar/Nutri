@@ -1,6 +1,5 @@
 ﻿# Food Item Detection Using Machine Learning
 
-![foods]
 
 This software helps you to identify food items in an image when you enter the image url. It uses machine learning algorithms to identify images. 
 
